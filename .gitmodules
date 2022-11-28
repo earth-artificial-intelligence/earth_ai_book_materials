@@ -1,3 +1,6 @@
 [submodule "chapter_08/AnalogsEnsemble"]
 	path = chapter_08/AnalogsEnsemble
 	url = git@github.com:Weiming-Hu/AnalogsEnsemble.git
+[submodule "chapter_08/DeepAnalogs"]
+	path = chapter_08/DeepAnalogs
+	url = git@github.com:Weiming-Hu/DeepAnalogs.git
