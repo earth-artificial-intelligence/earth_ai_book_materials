@@ -1,0 +1,3 @@
+[submodule "chapter_08/AnalogsEnsemble"]
+	path = chapter_08/AnalogsEnsemble
+	url = git@github.com:Weiming-Hu/AnalogsEnsemble.git
