@@ -15,7 +15,14 @@ This chapter introduces an analog ensemble method which uses convolutional neura
 
 The [Parallel Analog Ensemble (PAnEn)](https://weiming-hu.github.io/AnalogsEnsemble/) is an open-source, flexible, and scalable library to generate accurate ensemble forecasts from a single deterministic weather forecast and a set of corresponding observations. The Analog Ensemble (AnEn) technique has been shown to generate accurate and reliable weather forecasts. This package implements the Analog Ensemble technique with the goals of scalability and usability, while preserving its accuracy and reliability. Profiling results are presented to test the scalability of the PAnEn implementation. It is implemented in C++ using the OpenMP library and the MPI standard for performance and portability purposes, and it is best suited for a multi-node and multi-core environment. Additionally, an R interface, [RAnEn](https://weiming-hu.github.io/AnalogsEnsemble/R/) is provided along with various helper functions to facilitate tasks like data preparation, forecast verification, and visualization.
 
-PAnEn is included in this repository as a submodule. If you don't want to manually set up the submodule, you can directly install or run PAnEn following the steps [here](https://weiming-hu.github.io/AnalogsEnsemble/doc#Installation).
+PAnEn is included in this repository as a submodule. By default, the content of a submodule is not fetched. To download the content of the submodules, use the following code:
+
+```bash
+cd chapter_08
+git submodule update --init --recursive
+```
+
+Alternatively, you can install or run PAnEn following the steps [here](https://weiming-hu.github.io/AnalogsEnsemble/doc#Installation).
 
 ## Deep Analogs
 
