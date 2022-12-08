@@ -1,0 +1,6 @@
+/env/
+/.quarto/
+.Rproj.user
+data/*
+predictions.tiff
+model.png
