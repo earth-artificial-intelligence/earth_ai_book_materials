@@ -14,3 +14,5 @@ By combining deep learning and oceanography, we can gain valuable insights into 
 ## Check code
 
 Please check out the source code [here](https://github.com/podaac/machine-learning/tree/main/eddy-detection/v1.book_chapter)
+
+The equivalent reusable Geoweaver workflow is [here](https://github.com/earth-artificial-intelligence/eddy_detection_geoweaver)
