@@ -56,4 +56,4 @@ Explore the significance of provenance in Earth AI, delving into techniques for 
 ### [Chapter 15 - AI ethics for Earth sciences](https://www.sciencedirect.com/science/article/pii/B9780323917377000074) - [code](chapter_15/README.md)
 Dive into the ethical dimensions of AI in Earth sciences, examining the challenges, implications, and guidelines for responsible and ethical use of AI technologies.
 
-Click on the chapter titles to access the respective chapters and embark on an enlightening journey exploring the diverse applications of AI in Earth sciences!
+Click on the chapter titles to access the respective chapters and start an enlightening journey exploring the diverse applications of AI in Earth sciences!

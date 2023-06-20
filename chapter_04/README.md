@@ -9,7 +9,7 @@ To detect eddies, we utilize the AVISO-SSH sea level anomaly dataset obtained fr
 ## Training and Testing Sets:
 
 One of the key challenges in machine learning is overfitting, where a model performs well on training data but fails to generalize to real-world data. To address this, we split the dataset into training, validation, and test sets. The training set is used to update the model's parameters, the validation set helps us choose the best model and hyperparameters, and the test set provides an unbiased evaluation of the final model's performance. We also highlight the significance of using py-eddy-tracker algorithm to generate segmentation masks for the data.
-By combining deep learning and oceanography, we can gain valuable insights into the dynamics of mesoscale ocean eddies and their impact on climate systems. This chapter provides a comprehensive overview of the process, from data preparation to training and evaluation, enabling readers to embark on their own journey of understanding and contributing to this exciting field.
+By combining deep learning and oceanography, we can gain valuable insights into the dynamics of mesoscale ocean eddies and their impact on climate systems. This chapter provides a comprehensive overview of the process, from data preparation to training and evaluation, enabling readers to begin their own journey of understanding and contributing to this exciting field.
 
 ## Check code
 

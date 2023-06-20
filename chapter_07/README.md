@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the captivating world of hydrologic modeling, where the fusion of machine learning and Earth sciences opens up new frontiers of understanding. In this introductory chapter, we embark on a journey to unravel the intricate dynamics of the hydrologic cycle and explore the powerful applications of machine learning in this field.
+Welcome to the captivating world of hydrologic modeling, where the fusion of machine learning and Earth sciences opens up new frontiers of understanding. In this introductory chapter, we get on a journey to unravel the intricate dynamics of the hydrologic cycle and explore the powerful applications of machine learning in this field.
 
 The hydrologic cycle encompasses the fate and significance of water in various land surface processes, from river streamflow and soil moisture to snowpack and groundwater storage. Understanding these processes is crucial not only for scientific research but also for addressing the critical role water plays in human life, society, and ecosystem health.
 
@@ -22,7 +22,7 @@ To navigate the landscape of hybrid models, we aim to disentangle various terms 
 
 In this chapter, our ultimate objective is to guide you in building a conceptual hydrologic model using PyTorch constructs that seamlessly integrate with the broader machine learning infrastructure. We start with an introduction to the PyTorch ecosystem and delve into automatic differentiation, a foundational concept in modern machine learning.
 
-Equipped with automatic differentiation and numerical optimization techniques, we embark on a journey to blend domain-specific Ordinary Differential Equations (ODEs) with neural networks. We begin by demonstrating these principles using a simple non-linear reservoir model and synthetic data, illuminating the inner workings of this cohesive framework.
+Equipped with automatic differentiation and numerical optimization techniques, we can start to blend domain-specific Ordinary Differential Equations (ODEs) with neural networks. We begin by demonstrating these principles using a simple non-linear reservoir model and synthetic data, illuminating the inner workings of this cohesive framework.
 
 Building upon this foundation, we construct a variant of a conceptual hydrologic model, parameterized by PyTorch, and train it as we would a neural network. We delve into model performance analysis and explore intermediate processes such as evapotranspiration and soil storage to gain deeper insights into our trained model's behavior.
 
