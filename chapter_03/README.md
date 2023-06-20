@@ -6,19 +6,19 @@ In this chapter, we examine three different approaches for predicting monthly Pa
 
 ## Code:
 
-- [Monthly_Polar_Sea_Ice_Prediction_Attention_MLR+LSTM.ipynb](Monthly_Polar_Sea_Ice_Prediction_Attention_MLR+LSTM.ipynb): Jupyter notebook containing the code for monthly polar sea ice prediction using the attention-based Multivariate Linear Regression and Long Short-Term Memory (MLR+LSTM) model.
+- [Monthly_Polar_Sea_Ice_Prediction_Attention_MLR+LSTM.ipynb](code/Monthly_Polar_Sea_Ice_Prediction_Attention_MLR+LSTM.ipynb): Jupyter notebook containing the code for monthly polar sea ice prediction using the attention-based Multivariate Linear Regression and Long Short-Term Memory (MLR+LSTM) model.
 
-- [Multiple_Linear_Regression.ipynb](Multiple_Linear_Regression.ipynb): Jupyter notebook with the implementation of the Multiple Linear Regression model for sea ice prediction.
+- [Multiple_Linear_Regression.ipynb](code/Multiple_Linear_Regression.ipynb): Jupyter notebook with the implementation of the Multiple Linear Regression model for sea ice prediction.
 
-- [Sea_Ice_Prediction_monthly_LSTM.ipynb](Sea_Ice_Prediction_monthly_LSTM.ipynb): Jupyter notebook showcasing the monthly sea ice prediction using the Long Short-Term Memory (LSTM) model.
+- [Sea_Ice_Prediction_monthly_LSTM.ipynb](code/Sea_Ice_Prediction_monthly_LSTM.ipynb): Jupyter notebook showcasing the monthly sea ice prediction using the Long Short-Term Memory (LSTM) model.
 
 ## Data:
 
-- [Arctic_domain_mean_monthly_1979_2021.csv](Arctic_domain_mean_monthly_1979_2021.csv): CSV file containing the monthly mean data for the Arctic domain from 1979 to 2021.
+- [Arctic_domain_mean_monthly_1979_2021.csv](data/Arctic_domain_mean_monthly_1979_2021.csv): CSV file containing the monthly mean data for the Arctic domain from 1979 to 2021.
 
-- [monthly_features_1979_Aug2021.npy](monthly_features_1979_Aug2021.npy): NumPy array file containing the monthly features data from 1979 to August 2021.
+- [monthly_features_1979_Aug2021.npy](data/monthly_features_1979_Aug2021.npy): NumPy array file containing the monthly features data from 1979 to August 2021.
 
-- [monthly_target_1979_Aug2021.npy](monthly_target_1979_Aug2021.npy): NumPy array file containing the monthly target data from 1979 to August 2021.
+- [monthly_target_1979_Aug2021.npy](data/monthly_target_1979_Aug2021.npy): NumPy array file containing the monthly target data from 1979 to August 2021.
 
-- [placeholder.txt](placeholder.txt): Placeholder text file.
+- [placeholder.txt](data/placeholder.txt): Placeholder text file.
 
