@@ -10,7 +10,7 @@ Wildfires represent billion-dollar disasters that exhibit intricate climate and 
 
 To capture the complex dynamics of fire progression in space and time, we present two spatiotemporal attention-based sequence-sequence modeling frameworks. These frameworks utilize Convolutional Long Short-Term Memory (ConvLSTM) networks. By leveraging a high spatiotemporal resolution wildfire spread dataset generated through a semiempirical percolation model, which mimics the biophysical process of wildfire spread, we evaluate the effectiveness of these approaches. Furthermore, we explore model interpretability by employing techniques such as Integrated Gradients and attention maps to identify the importance of spatiotemporal biophysical features in wildfire spread.
 
-## How it works
+## How AI performs
 
 The results demonstrate the superiority of attention-based models in predicting fire-front movement and uncovering meaningful physical interpretations relevant to fire ecology. This chapter offers valuable insights into the effectiveness of attention mechanisms for capturing the intricate spatiotemporal dynamics of wildfire spread. Such insights can significantly contribute to ongoing fire management efforts, aiding in the development of proactive strategies to mitigate the devastating impact of wildfires.
 
