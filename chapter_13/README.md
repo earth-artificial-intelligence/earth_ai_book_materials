@@ -18,4 +18,9 @@ Drawing from the results obtained, we conclude by discussing the advantages and 
 
 With this tutorials we are on the road to unlock the potential of quantum computing and machine learning, bridging the gap between classical and quantum paradigms. By exploring QML for satellite image classification, you'll gain insights into the cutting-edge technologies shaping our digital landscape.
 
+## Data
+
+- [dataset.csv with image id and labels](dataset.csv)
+- [dataset.zip](dataset.zip)
+
 ***no code is publicly available for this chapter yet***
