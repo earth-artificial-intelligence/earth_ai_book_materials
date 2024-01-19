@@ -25,5 +25,5 @@ The integration of AI techniques into CMAQ has significantly improved air qualit
 
 ## Code
 
-- [CMAQ ozone forecasting test workflow in Geoweaver](https://github.com/earth-artificial-intelligence/cmaq-geoweaver)
+- [CMAQ ozone forecasting test workflow in Geoweaver](https://github.com/earth-artificial-intelligence/cmaq-predict-geoweaver)
 
